@@ -1,0 +1,26 @@
+.img {
+    height: 80px;
+    width: auto;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+th, td {
+    background-color: lightgreen;
+    color: grey;
+}
+
+.main {
+    background-color: blue !important;
+    color: white !important;
+    height: 60px;
+    font-size: 20px;
+}
+
+table {
+    width: 300px;
+}
